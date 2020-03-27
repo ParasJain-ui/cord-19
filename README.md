@@ -1,1 +1,3 @@
-# cord-19
+# TEAM TYRANTS
+
+This is our first kaggle competition. 
